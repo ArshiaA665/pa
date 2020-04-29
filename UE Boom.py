@@ -43,7 +43,7 @@ def main():
             show_cart(_cart_items)
         if cmd == 'remove':
             remove_cart(_cart_items, arg_list)
-            
+            sa
             
             
         cmd, arg_list = get_cmd()
